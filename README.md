@@ -30,6 +30,10 @@ npm. 2024. @react-native-picker/picker. [online] Available at: https://www.npmjs
 
 React Native. 2022. React Native · A framework for building native apps using React. [online]. Available at: https://reactnative.dev/ [Accessed 20 September 2024].
 
+Prakash, A. 2024. how is the prevItem getting the value of the previous item?. [online]. Available at: https://stackoverflow.com/questions/64815353/how-is-the-previtem-getting-the-value-of-the-previous-item [Accessed 20 September 2024].
+
+‌
+
 ‌
 
 ‌
