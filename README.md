@@ -2,7 +2,8 @@
 
 ## Part 1 improvements
 
-image
+![Part 1 - nav](https://github.com/user-attachments/assets/d4a3876e-9105-478c-889a-4b6da78d8891)
+
 
 ## Part 2
 
@@ -13,6 +14,11 @@ When the app is running, Chris will see a header stating Add menu. The are 4 tex
 The chef will need to fill in the 4 text inputs, name, description, select course and price. Once he is successfully a alert will pop up notifying the chef the item is successfully added. The are validations associated with save button. All fields must be field and the price must be a valid number.
 
 The information entered will be in the flatlist. It is located below the menu: 0. As soon the dish is entered in the flatlist, the number will increment and the display will be Menu: 1. When the dish is successfully entered, the number will keep on incrementing representing the number of dishes in the menu.
+
+### Application
+
+![app](https://github.com/user-attachments/assets/de989e3f-8eec-4669-b892-95a1174ad23e)
+
 
 ### Code
 
