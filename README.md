@@ -24,6 +24,9 @@ The information entered will be in the flatlist. It is located below the menu: 0
 
 For my code I installed one dependency which is: Picker - npm install @react-native-picker/picker
 
+### Video
+https://youtu.be/_9hw58-xZNA
+
 ## References
 
 npm. 2024. @react-native-picker/picker. [online] Available at: https://www.npmjs.com/package/@react-native-picker/picker [Accessed 20 September 2024].
